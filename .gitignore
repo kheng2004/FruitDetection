@@ -1,0 +1,36 @@
+# Ignore all image files
+*.jpg
+*.png
+*.jpeg
+
+# Ignore pycharm and system files
+.DS_Store
+*.idea
+__pycache__
+*.zip
+
+# Ignore dataset files
+*.csv
+*.json
+
+# Ignore checkpoints
+ssd/voc/*.pth
+adssd/voc/*.pth
+
+# Ignore pickle files
+*.pkl
+
+# Ignore train test
+train
+test
+
+# Ignore sample files
+samples
+
+# Ignore dataset
+test
+ssd/train
+ssd/test
+adssd/train
+adssd/test
+*.zip

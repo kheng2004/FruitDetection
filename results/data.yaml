@@ -1,0 +1,9 @@
+names:
+- Apple
+- Banana
+- Grape
+- Orange
+- Pineapple
+- Watermelon
+train: /kaggle/input/fruit-detection/Fruits-detection/train
+val: /kaggle/input/fruit-detection/Fruits-detection/valid
